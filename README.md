@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-`C` `Assembly` `Python` `JavaScript` `C#` `Unity` `HTML/CSS`  
+`C` `Assembly` `Python` `JavaScript` `C#` `Unity` `HTML/CSS` `Next.js`
 
 ## 📫 Contact
 

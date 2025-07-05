@@ -1,6 +1,6 @@
 # Hi, I'm Bannie
 
-I'm a multidisciplinary developer passionate about **software engineering**, **cybersecurity**, and **game development**. Currently pursuing an **MSc in Cyber Security at Aston University**, after graduating with a **BSc in Computer Science & Artificial Intelligence from Coventry University**. Just scored in the 95th percentile in my first ever Hackathon event (TryHackMe Industrial Intrusion Event).
+I'm a multidisciplinary developer passionate about **software engineering**, **cybersecurity**, and **game development**. Currently pursuing an **MSc in Cyber Security at Aston University**, after graduating with a **BSc in Computer Science & Artificial Intelligence from Coventry University**. Just scored in the 95th percentile in my first ever Hackathon event (TryHackMe's Industrial Intrusion Event).
 
 I love building things that live at the intersection of creativity and deep technical skill—whether it's games, productivity tools, or low-level operating systems.
 

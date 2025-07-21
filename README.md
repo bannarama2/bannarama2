@@ -80,7 +80,7 @@ I'm diving deep into cybersecurity via:
 Feel free to reach out if you want to collaborate, talk tech, or playtest a weird prototype:
 
 - [LinkedIn](https://www.linkedin.com/in/youssef-behery-0ba3b8207/)
-- [Portfolio/Website](https://bannarama2.github.io/Youssef-Behery.github.io/)
+- [Portfolio/Website (In Dire need of an update)](https://bannarama2.github.io/Youssef-Behery.github.io/)
 - [TryHackMe](https://tryhackme.com/p/bannarama23)  
 
 ---

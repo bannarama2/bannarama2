@@ -1,12 +1,20 @@
 # Hi, I'm Bannie
 
-I'm a multidisciplinary developer passionate about **software engineering**, **cybersecurity**, and **game development**. Currently pursuing an **MSc in Cyber Security at Aston University**, after graduating with a **BSc in Computer Science & Artificial Intelligence from Coventry University**. Just scored in the 95th percentile in my first ever Hackathon event (TryHackMe's Industrial Intrusion Event).
+I recently placed in the top 5% of TryHackMe’s Industrial Intrusion Hackathon and am currently pursuing an MSc in Cyber Security at Aston University, following a BSc in Computer Science & AI at Coventry University.
 
 I love building things that live at the intersection of creativity and deep technical skill—whether it's games, productivity tools, or low-level operating systems.
 
 🎓 MSc Cyber Security @ Aston University  
 💻 BSc Computer Science & AI @ Coventry University  
 🔐 Cybersecurity | 🕹️ Game Development | 📱 Software Engineering
+
+## ✅ Recently Completed Projects
+
+### 🌤️ React + React Native Weather Apps
+
+Built two weather apps—one in React and one in React Native—to practice modern frontend frameworks and API integration. Both use a clean UI to display real-time weather data.
+- 📦 React Web App: [Github Repo](https://github.com/bannarama2/React-Weather-App)
+- 📱 React Native App: [GitHub Repo](https://github.com/bannarama2/ReactNative-Weather-App)
 
 ## 🚀 What I'm Working On
 

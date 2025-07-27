@@ -47,8 +47,6 @@ I'm diving deep into cybersecurity via:
 - Custom tooling (e.g. a directory bruteforcer script)  
 - Focus on secure coding, vulnerability research, and hands-on hacking
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=90078" style='border:none;'></iframe>
-
 ---
 
 ## 💼 Work Experience

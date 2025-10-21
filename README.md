@@ -18,8 +18,8 @@ A LAN-accessible streaming platform built with **React** for the frontend and **
 - **Tech:** Built with modern React practices and secure Web API integration  
 - **Focus:** Low-latency, high usability streaming  
 
-📦 [GitHub Repo Frontend](https://github.com/bannarama2/VidStreamr-Frontend)
-📦 [GitHub Repo Backend](https://github.com/bannarama2/VidStreamr-Backend)
+- 📦 [GitHub Repo Frontend](https://github.com/bannarama2/VidStreamr-Frontend)
+- 📦 [GitHub Repo Backend](https://github.com/bannarama2/VidStreamr-Backend)
 
 ### 🌤️ React + React Native Weather Apps
 

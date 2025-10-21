@@ -12,6 +12,17 @@ I love building things that live at the intersection of creativity and deep tech
 
 ### 🌤️ React + React Native Weather Apps
 
+### 🎥 Local Streaming Software (React + C# .NET Web API)
+
+A LAN-accessible streaming platform built with **React** for the frontend and **C# .NET Web API** for the backend. Allows users to stream media locally over their network with a smooth and responsive interface.
+
+- **Features:** Real-time media playback over LAN  
+- **Tech:** Built with modern React practices and secure Web API integration  
+- **Focus:** Low-latency, high usability streaming  
+
+📦 [GitHub Repo Frontend](https://github.com/bannarama2/VidStreamr-Frontend)
+📦 [GitHub Repo Backend](https://github.com/bannarama2/VidStreamr-Backend)
+
 Built two weather apps—one in React and one in React Native—to practice modern frontend frameworks and API integration. Both use a clean UI to display real-time weather data.
 - 📦 React Web App: [Github Repo](https://github.com/bannarama2/React-Weather-App)
 - 📱 React Native App: [GitHub Repo](https://github.com/bannarama2/ReactNative-Weather-App)

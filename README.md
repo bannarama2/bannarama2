@@ -68,6 +68,5 @@ I'm diving deep into cybersecurity via:
 
 Feel free to reach out if you want to collaborate, talk tech, or playtest a weird prototype:
 
-- [LinkedIn](https://www.linkedin.com/in/youssef-behery/)
 - [Portfolio/Website (In dire need of an update)](https://bannarama2.github.io/Youssef-Behery.github.io/)
 - [TryHackMe](https://tryhackme.com/p/bannarama23)  

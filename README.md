@@ -4,7 +4,7 @@ Solo Unity developer and incoming **MSc Games Technology** student at Coventry U
 
 🎓 BSc Computer Science & AI @ Coventry University (2024)
 🕹️ Currently building a CPU raytracer & rasterizer from scratch in C#
-🎮 Shipped multiple jam titles in Unity — playable on [Itch.io](INSERT-ITCHIO-URL)
+🎮 Shipped multiple jam titles in Unity — playable on [Itch.io](https://banniedabananster.itch.io/)
 
 ---
 
@@ -17,7 +17,7 @@ A from-scratch rendering pipeline with zero engine or graphics API dependencies.
 - Recursive reflections & shadow casting
 - *(In progress)* Software rasterizer — perspective projection, depth buffering, backface culling
 
-📦 [Repo Link](INSERT-RAYTRACER-REPO-URL)
+📦 [Repo Link](https://github.com/bannarama2/Computer-Graphics-From-Scratch)
 
 ### 🎮 Solar Haven (Unity)
 A tile-based upgrade inventory system with Tetris-style spatial mechanics and elemental synergy effects, built for a world-restoration roguelike.
@@ -28,9 +28,9 @@ A tile-based upgrade inventory system with Tetris-style spatial mechanics and el
 
 | Game | Genre | Link |
 |---|---|---|
-| One Jump Ahead | Precision Platformer | [Play](INSERT-ITCHIO-LINK) |
-| The Floor is Coffee | Climbing Platformer | [Play](INSERT-ITCHIO-LINK) |
-| Operation Annihilation | Survival Shooter | [Play](INSERT-ITCHIO-LINK) |
+| One Jump Ahead | Precision Platformer | [Play](https://banniedabananster.itch.io/one-jump-ahead) |
+| The Floor is Coffee | Climbing Platformer | [Play](https://banniedabananster.itch.io/the-floor-is-coffee) |
+| Operation Annihilation | Survival Shooter | [Play](https://banniedabananster.itch.io/operation-annihilation) |
 
 ---
 
@@ -59,5 +59,5 @@ A tile-based upgrade inventory system with Tetris-style spatial mechanics and el
 
 ## 📫 Links
 
-- 🎮 [Itch.io](INSERT-ITCHIO-URL)
-- 💼 [LinkedIn](INSERT-LINKEDIN-URL)
+- 🎮 [Itch.io](https://banniedabananster.itch.io/)
+- 💼 [LinkedIn](www.linkedin.com/in/youssef-behery/)
